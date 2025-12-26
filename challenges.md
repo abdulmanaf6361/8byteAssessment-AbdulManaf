@@ -31,4 +31,4 @@ Key Learnings
 Django behind ALB requires explicit proxy awareness
 Network-level security is often preferable to application-level restrictions
 AWS managed services have strict product boundaries
-Observability should be designed alongside infrastructure, not added lat
+Observability should be designed alongside infrastructure, not added later
